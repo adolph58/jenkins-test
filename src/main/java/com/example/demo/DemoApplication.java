@@ -16,6 +16,6 @@ public class DemoApplication {
 
 	@GetMapping("/test")
 	public String test() {
-		return "Hello, Jenkins!";
+		return "Hello, Jenkins-dev-1.0!";
 	}
 }
